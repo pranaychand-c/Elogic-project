@@ -1,4 +1,4 @@
-// src/components/CreateUser.js
+
 import React, { useState } from 'react';
 import { Modal, Button } from 'react-bootstrap';
 import logo2 from "./Success.png"
